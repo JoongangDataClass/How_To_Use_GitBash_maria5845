@@ -32,4 +32,4 @@
 
 8. 연결이 잘 되어있다면 마스터 브렌치에 푸쉬한다. 
     
-    명령어 : git push origin master 
+    명령어 : git push origin master
